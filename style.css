@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    
+}
+header{
+    background-color: #FF6A6A;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 2px;
+}
+h2{
+    background-color: #FFF4F4;
+    color: #FF6A6A;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;  
+    padding: 2px; 
+}
+
+img{
+    width: 80%;
+}
+
+a:link,:active,:visited{
+    color: #FF6A6A;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover{
+    color: #BA4D4D;
+}
+footer{
+    font-size: 12px;
+}
+nav{
+    text-align: center;
+}
